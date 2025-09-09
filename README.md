@@ -3,7 +3,7 @@
 
 Hostel Management System is designed for better interaction between Management, Staff and Customers. Hostel Mgmt System handles all the requirements for easy Hostel Management. This software will help the Hostel to structuralize the activities and maintain data transparency where needed and properly store data for regular operations and future analysis. Hostel Management Software monitors and records a variety of information covering Hostel Attendance, Disciplinary Logs, as well as Room Charge Status. Hostel software module includes many features like fee collection, room allotment, room management as categorization of rooms, daily attendance register of hostel and hostel reports. Hostel management system module includes many reports like room allotment register, room left report, charge due reports and receipts, room transfer register and room status report.
 
-<img src="https://www.aspscriptsonline.com/frontend/assets/templates/1738544661_ed3b53b02c8165f19091.webp">
+<img src="https://www.aspscriptsonline.com/frontend/assets/templates/1738522078_bee9c194745752e0a2fc.webp">
 
 <b>Hostel Management Software has the following core modules:</b>
 
@@ -44,7 +44,7 @@ Hostel Management System is designed for better interaction between Management, 
 </ul>
 
 More details and download script
-https://www.aspscriptsonline.com/product/hotel-management-software
+https://www.aspscriptsonline.com/product/hostel-management-software
 
 If you're looking for readymade php scripts
 https://www.phpscriptsonline.com/products
